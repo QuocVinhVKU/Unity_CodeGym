@@ -1,0 +1,15 @@
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.csproj.AssemblyReference.cache
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.AssemblyInfoInputs.cache
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.AssemblyInfo.cs
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.csproj.CoreCompileInputs.cache
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\bin\Debug\net7.0\CurrencyConversion.exe
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\bin\Debug\net7.0\CurrencyConversion.deps.json
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\bin\Debug\net7.0\CurrencyConversion.runtimeconfig.json
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\bin\Debug\net7.0\CurrencyConversion.dll
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\bin\Debug\net7.0\CurrencyConversion.pdb
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.dll
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\refint\CurrencyConversion.dll
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.pdb
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\CurrencyConversion.genruntimeconfig.cache
+D:\Unity_CodeGym\Bai1_C#canban\CurrencyConversion\obj\Debug\net7.0\ref\CurrencyConversion.dll

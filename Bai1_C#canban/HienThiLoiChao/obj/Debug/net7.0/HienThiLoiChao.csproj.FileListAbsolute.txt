@@ -1,0 +1,15 @@
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.exe
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.deps.json
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.runtimeconfig.json
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.dll
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.pdb
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.csproj.AssemblyReference.cache
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.AssemblyInfoInputs.cache
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.AssemblyInfo.cs
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.csproj.CoreCompileInputs.cache
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.dll
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\refint\HienThiLoiChao.dll
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.pdb
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.genruntimeconfig.cache
+D:\Unity_CodeGym\Bai1_C#canban\HienThiLoiChao\obj\Debug\net7.0\ref\HienThiLoiChao.dll

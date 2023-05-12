@@ -1,0 +1,15 @@
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\bin\Debug\net7.0\UsingOperator.exe
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\bin\Debug\net7.0\UsingOperator.deps.json
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\bin\Debug\net7.0\UsingOperator.runtimeconfig.json
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\bin\Debug\net7.0\UsingOperator.dll
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\bin\Debug\net7.0\UsingOperator.pdb
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.csproj.AssemblyReference.cache
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.AssemblyInfoInputs.cache
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.AssemblyInfo.cs
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.csproj.CoreCompileInputs.cache
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.dll
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\refint\UsingOperator.dll
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.pdb
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\UsingOperator.genruntimeconfig.cache
+D:\Unity_CodeGym\Bai1_C#canban\UsingOperator\obj\Debug\net7.0\ref\UsingOperator.dll
